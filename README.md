@@ -123,7 +123,7 @@ To run this Jupyter Notebook, you'll need Python installed on your system along 
     First, obtain the `ml.ipynb` file. If this is part of a GitHub repository, you would clone it:
 
     ```bash
-    git clone https://github.com/narrowminded/spam-detection-ml.git
+    git clone https://github.com/narrowminded/-MACHINE-LEARNING-MODEL-IMPLEMENTATION.git
     cd spam-detection-ml
     ```
 
