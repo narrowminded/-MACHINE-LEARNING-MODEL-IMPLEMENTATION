@@ -150,6 +150,8 @@ To run this Jupyter Notebook, you'll need Python installed on your system along 
     jupyter notebook
     ```
 
+    ![Image](https://github.com/user-attachments/assets/01778c13-9cf2-4c07-9d04-0d38762ee887)
+
     This command will open a new tab in your web browser with the Jupyter Notebook dashboard.
 
 6.  **Open and Run the Notebook:**
