@@ -149,11 +149,10 @@ To run this Jupyter Notebook, you'll need Python installed on your system along 
     ```bash
     jupyter notebook
     ```
-
-    ![Image](https://github.com/user-attachments/assets/dbd901d2-3762-433c-b7b3-979b38fbfc4f)
-    ![Image](https://github.com/user-attachments/assets/01778c13-9cf2-4c07-9d04-0d38762ee887)
-
     This command will open a new tab in your web browser with the Jupyter Notebook dashboard.
 
 6.  **Open and Run the Notebook:**
     From the Jupyter dashboard, click on `ml.ipynb` to open it. You can then run each cell sequentially by selecting a cell and pressing `Shift + Enter`, or run all cells by selecting `Cell > Run All` from the menu. The output of each step, including evaluation metrics, will be displayed directly in the notebook cells.
+
+    ![Image](https://github.com/user-attachments/assets/dbd901d2-3762-433c-b7b3-979b38fbfc4f)
+    ![Image](https://github.com/user-attachments/assets/01778c13-9cf2-4c07-9d04-0d38762ee887)
